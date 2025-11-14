@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\doan\\FX 570\\FX 570\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF11FC0B-3D3A-4878-BEBD-5158EEEB7825}|FX 570.csproj|i:\\doan\\fx 570\\fx 570\\frm_fx-570.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF11FC0B-3D3A-4878-BEBD-5158EEEB7825}|FX 570.csproj|solutionrelative:frm_fx-570.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF11FC0B-3D3A-4878-BEBD-5158EEEB7825}|FX 570.csproj|i:\\doan\\fx 570\\fx 570\\frm_fx-570.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF11FC0B-3D3A-4878-BEBD-5158EEEB7825}|FX 570.csproj|solutionrelative:frm_fx-570.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_FX-570.cs [Design]",
+              "DocumentMoniker": "I:\\doan\\FX 570\\FX 570\\Frm_FX-570.cs",
+              "RelativeDocumentMoniker": "Frm_FX-570.cs",
+              "ToolTip": "I:\\doan\\FX 570\\FX 570\\Frm_FX-570.cs [Design]",
+              "RelativeToolTip": "Frm_FX-570.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:30:24.691Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_FX-570.Designer.cs",
+              "DocumentMoniker": "I:\\doan\\FX 570\\FX 570\\Frm_FX-570.Designer.cs",
+              "RelativeDocumentMoniker": "Frm_FX-570.Designer.cs",
+              "ToolTip": "I:\\doan\\FX 570\\FX 570\\Frm_FX-570.Designer.cs",
+              "RelativeToolTip": "Frm_FX-570.Designer.cs",
+              "ViewState": "AgIAABQCAAAAAAAAAAAgwCMCAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T19:29:40.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

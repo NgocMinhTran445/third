@@ -1,0 +1,20 @@
+D:\VS2019\Saves\FX 570\bin\Debug\FX 570.exe.config
+D:\VS2019\Saves\FX 570\bin\Debug\FX 570.exe
+D:\VS2019\Saves\FX 570\bin\Debug\FX 570.pdb
+D:\VS2019\Saves\FX 570\obj\Debug\FX 570.csproj.AssemblyReference.cache
+D:\VS2019\Saves\FX 570\obj\Debug\FX_570.Form1.resources
+D:\VS2019\Saves\FX 570\obj\Debug\FX_570.Properties.Resources.resources
+D:\VS2019\Saves\FX 570\obj\Debug\FX 570.csproj.GenerateResource.cache
+D:\VS2019\Saves\FX 570\obj\Debug\FX 570.csproj.CoreCompileInputs.cache
+D:\VS2019\Saves\FX 570\obj\Debug\FX 570.exe
+D:\VS2019\Saves\FX 570\obj\Debug\FX 570.pdb
+I:\doan\FX 570\FX 570\bin\Debug\FX 570.exe.config
+I:\doan\FX 570\FX 570\bin\Debug\FX 570.exe
+I:\doan\FX 570\FX 570\bin\Debug\FX 570.pdb
+I:\doan\FX 570\FX 570\obj\Debug\FX 570.csproj.AssemblyReference.cache
+I:\doan\FX 570\FX 570\obj\Debug\FX_570.Form1.resources
+I:\doan\FX 570\FX 570\obj\Debug\FX_570.Properties.Resources.resources
+I:\doan\FX 570\FX 570\obj\Debug\FX 570.csproj.GenerateResource.cache
+I:\doan\FX 570\FX 570\obj\Debug\FX 570.csproj.CoreCompileInputs.cache
+I:\doan\FX 570\FX 570\obj\Debug\FX 570.exe
+I:\doan\FX 570\FX 570\obj\Debug\FX 570.pdb
